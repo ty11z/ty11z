@@ -44,4 +44,8 @@
    <img alt="C_language" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
 </a>
 
+<a href="https://www.electronjs.org/">
+  <img alt="ElectronJS" src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff">
+</a>
+
 <br/>
