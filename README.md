@@ -11,8 +11,12 @@
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </a>
 
-
-
+<a href="https://www.lua.org/">
+   <img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
+</a>
+<a href="https://www.learn-c.org/">
+   <img alt="C_language" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+</a>
 
 
 <a href="https://developer.mozilla.org/en/docs/Web/JavaScript" target="_blank">
