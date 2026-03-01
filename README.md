@@ -16,15 +16,6 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </a>
 
-<a href="https://nodejs.org/en" target="_blank">
-    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-    <img alt="Next.JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-</a>
-
-
 
 <a href="https://www.w3.org/TR/2011/WD-html5-20110405/" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -46,6 +37,17 @@
 
 <a href="https://www.electronjs.org/">
   <img alt="ElectronJS" src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff">
+</a>
+
+<h1>Operating Systems</h1>
+<hr>
+
+<a href="https://www.apple.com/os/macos/">
+  <img alt="AppleMacOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0">
+</a>
+
+<a href="https://archlinux.org/">
+  <img alt="ArchLinux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff">
 </a>
 
 <br/>
