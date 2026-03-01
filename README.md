@@ -25,13 +25,6 @@
 </a>
 
 
-<a href="https://www.lua.org/">
-   <img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
-</a>
-<a href="https://www.learn-c.org/">
-   <img alt="C_language" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-</a>
-
 
 <a href="https://www.w3.org/TR/2011/WD-html5-20110405/" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -40,4 +33,15 @@
 <a href="https://www.w3.org/Style/CSS/" target="_blank">
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </a>
+
+
+<a href="https://www.lua.org/">
+   <img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
+</a>
+
+
+<a href="https://www.learn-c.org/">
+   <img alt="C_language" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+</a>
+
 <br/>
