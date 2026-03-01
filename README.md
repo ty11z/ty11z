@@ -3,7 +3,7 @@
 </p>
  
  
-- 🧠  Web Developer
+- 🧠  Frontend Developer
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -40,7 +40,6 @@
 </a>
 
 <h1>Operating Systems</h1>
-<hr>
 
 <a href="https://www.apple.com/os/macos/">
   <img alt="AppleMacOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0">
